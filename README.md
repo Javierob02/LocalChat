@@ -46,6 +46,6 @@ This project is a simple chat application called "LocalChat" implemented using P
 
 #### Server -> python3 ./Server_LocalChat.py 
 
-#### Client -> python3 ./LocalChat <username>
+#### Client -> python3 ./LocalChat '<username>'
 
 
