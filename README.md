@@ -22,9 +22,9 @@ This project is a simple chat application called "LocalChat" implemented using P
 - The client can exit the chat application by clicking the "X" button or pressing the Escape key.
 - The client uses the TCP/IP protocol to communicate with the server.
 
-<img width="924" alt="Image_1" src="https://github.com/Javierob02/LocalChat/assets/93495474/a528310b-117c-477a-b9a1-31a8fe29245e">
-<img width="456" alt="Image_2" src="https://github.com/Javierob02/LocalChat/assets/93495474/c5e75669-1825-4725-af3a-7fadedd89f31">
-<img width="933" alt="Image_3" src="https://github.com/Javierob02/LocalChat/assets/93495474/d7eee4e5-6bce-44b6-b465-0c2c69b1c067">  
+![IMG_1](https://github.com/Javierob02/LocalChat/assets/93495474/a528310b-117c-477a-b9a1-31a8fe29245e)
+![IMG_2](https://github.com/Javierob02/LocalChat/assets/93495474/c5e75669-1825-4725-af3a-7fadedd89f31)
+![IMG_3](https://github.com/Javierob02/LocalChat/assets/93495474/d7eee4e5-6bce-44b6-b465-0c2c69b1c067)
 
 # Libraries Used
 
