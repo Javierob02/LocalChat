@@ -27,6 +27,21 @@ This project is a simple chat application called "LocalChat" implemented using P
 
   <img width="933" alt="Image_3" src="https://github.com/Javierob02/LocalChat/assets/93495474/8d2afb0b-027b-4301-b876-bb10a79d2457">
 
+# Libarries Used
+
+#### Server Side:
+
+- *socket*: Provides the necessary functionality for socket programming, enabling network communication.
+- *threading*: Used to handle multiple client connections concurrently with threads.
+
+#### Client Side:
+
+- *socket*: Used for client-server communication over the network.
+- *threading*: Employed to receive messages from the server asynchronously.
+- *tkinter*: Provides the graphical user interface (GUI) components for building the chat client application.
+- *sys*: Used to access command-line arguments to retrieve the username.
+- *messagebox*: Utilized for displaying a confirmation dialog when exiting the chat client.
+
 # Execution of application
 
 #### Server -> python3 ./Server_LocalChat.py 
