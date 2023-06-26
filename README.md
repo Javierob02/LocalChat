@@ -31,16 +31,16 @@ This project is a simple chat application called "LocalChat" implemented using P
 
 #### Server Side:
 
-- *socket*: Provides the necessary functionality for socket programming, enabling network communication.
-- *threading*: Used to handle multiple client connections concurrently with threads.
+- **socket**: Provides the necessary functionality for socket programming, enabling network communication.
+- **threading**: Used to handle multiple client connections concurrently with threads.
 
 #### Client Side:
 
-- *socket*: Used for client-server communication over the network.
-- *threading*: Employed to receive messages from the server asynchronously.
-- *tkinter*: Provides the graphical user interface (GUI) components for building the chat client application.
-- *sys*: Used to access command-line arguments to retrieve the username.
-- *messagebox*: Utilized for displaying a confirmation dialog when exiting the chat client.
+- **socket**: Used for client-server communication over the network.
+- **threading**: Employed to receive messages from the server asynchronously.
+- **tkinter**: Provides the graphical user interface (GUI) components for building the chat client application.
+- **sys**: Used to access command-line arguments to retrieve the username.
+- **messagebox**: Utilized for displaying a confirmation dialog when exiting the chat client.
 
 # Execution of application
 
