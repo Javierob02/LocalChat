@@ -27,7 +27,7 @@ This project is a simple chat application called "LocalChat" implemented using P
 
   <img width="933" alt="Image_3" src="https://github.com/Javierob02/LocalChat/assets/93495474/8d2afb0b-027b-4301-b876-bb10a79d2457">
 
-# Libarries Used
+# Libraries Used
 
 #### Server Side:
 
